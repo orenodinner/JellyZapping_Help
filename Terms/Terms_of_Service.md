@@ -40,7 +40,7 @@ Users shall not engage in any of the following:
 	•	User Responsibility for Backup: Users are solely responsible for taking appropriate measures such as backups and verifying the integrity of their server and content. We do not provide any guarantee regarding data preservation.
 	•	Limitation of Liability: To the maximum extent permitted by applicable law, we shall not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or any loss of profits, revenue, goodwill, business opportunity, data loss, file/video deletion or corruption, or server damage, arising out of or related to the use of (or inability to use) the App, even if we have been advised of the possibility of such damages.
 	•	Maximum Liability (if any): To the extent liability cannot be excluded under applicable law, our total aggregate liability shall be limited to the amount (if any) you paid to us for the App (or Pro features) in the twelve (12) months preceding the event giving rise to the claim.
-  • Even if the App does not intentionally delete any files, such loss or corruption may occur due to server-side behavior, APIs, or environmental factors.
+  	• 	Even if the App does not intentionally delete any files, such loss or corruption may occur due to server-side behavior, APIs, or environmental factors.
 
 8. Changes to Terms
 
@@ -89,7 +89,7 @@ These Terms shall be governed by and construed in accordance with the laws of Ja
 	•	責任の制限: 法令が許容する最大限の範囲において、当方は、本アプリの利用（または利用不能）に起因または関連して生じた間接損害、付随損害、特別損害、結果損害、懲罰的損害、ならびに逸失利益、機会損失、営業上の損失、信用毀損、データの消失、ファイル／動画の削除・破損、サーバーの損傷等について、一切の責任を負いません（当方が当該損害の可能性を知らされていた場合を含みます）。
 	•	（任意）故意・重過失の除外: ただし、当方の故意または重過失により生じた損害については、この限りではありません。
 	•	（任意）責任上限: 法令上、当方の責任を免除できない場合であっても、当方が負う責任の総額は、当該損害発生の原因となる事象が生じた日から遡って過去12か月間にユーザーが当方に支払った利用料金（存在する場合）を上限とします。
-  •	「本アプリが意図的にファイル削除を行わない設計であっても、サーバー側挙動、API、動作環境等の要因により、結果として消失・破損が生じる場合があります。
+  	•	「本アプリが意図的にファイル削除を行わない設計であっても、サーバー側挙動、API、動作環境等の要因により、結果として消失・破損が生じる場合があります。
 
 8. 規約の変更
 
